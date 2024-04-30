@@ -16,4 +16,11 @@
 *.nav
 *.snm
 *.toc
+
+# Agregados
+app_no.py
+GuerraImpuesta_no.py
+GuerraImpuesta.ipynb
+
+
 /Notebooks/.ipynb_checkpoints
